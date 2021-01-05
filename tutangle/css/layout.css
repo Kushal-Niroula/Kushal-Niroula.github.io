@@ -84,15 +84,15 @@
 }
 .body_wrapper{
     width: 100%;
-    height: 650px;
+    height: 667px;
     background-color:white;
 }
 .body_content_wrapper{
     width:936px;
     height:605px;
-    margin: auto;
+    margin: 0 auto;
     margin-top:31px;
-    margin-bottom: 31px;
+ 
     background-color:white;
     
 }
@@ -195,6 +195,7 @@
 .footer_wrapper{
     width:100%;
     height:46px;
+    margin-top:-31px;
     
     background-color: darkslategrey;
 }
